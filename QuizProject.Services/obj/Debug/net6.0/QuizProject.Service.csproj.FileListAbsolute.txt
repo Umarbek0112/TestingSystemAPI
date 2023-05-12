@@ -1,0 +1,17 @@
+C:\Users\i7TechStore\source\repos\QuizProject\QuizProject.Services\bin\Debug\net6.0\QuizProject.Service.deps.json
+C:\Users\i7TechStore\source\repos\QuizProject\QuizProject.Services\bin\Debug\net6.0\QuizProject.Service.dll
+C:\Users\i7TechStore\source\repos\QuizProject\QuizProject.Services\bin\Debug\net6.0\QuizProject.Service.pdb
+C:\Users\i7TechStore\source\repos\QuizProject\QuizProject.Services\obj\Debug\net6.0\QuizProject.Service.csproj.AssemblyReference.cache
+C:\Users\i7TechStore\source\repos\QuizProject\QuizProject.Services\obj\Debug\net6.0\QuizProject.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\i7TechStore\source\repos\QuizProject\QuizProject.Services\obj\Debug\net6.0\QuizProject.Service.AssemblyInfoInputs.cache
+C:\Users\i7TechStore\source\repos\QuizProject\QuizProject.Services\obj\Debug\net6.0\QuizProject.Service.AssemblyInfo.cs
+C:\Users\i7TechStore\source\repos\QuizProject\QuizProject.Services\obj\Debug\net6.0\QuizProject.Service.csproj.CoreCompileInputs.cache
+C:\Users\i7TechStore\source\repos\QuizProject\QuizProject.Services\obj\Debug\net6.0\QuizProject.Service.dll
+C:\Users\i7TechStore\source\repos\QuizProject\QuizProject.Services\obj\Debug\net6.0\refint\QuizProject.Service.dll
+C:\Users\i7TechStore\source\repos\QuizProject\QuizProject.Services\obj\Debug\net6.0\QuizProject.Service.pdb
+C:\Users\i7TechStore\source\repos\QuizProject\QuizProject.Services\obj\Debug\net6.0\ref\QuizProject.Service.dll
+C:\Users\i7TechStore\source\repos\QuizProject\QuizProject.Services\bin\Debug\net6.0\QuizProject.Data.dll
+C:\Users\i7TechStore\source\repos\QuizProject\QuizProject.Services\bin\Debug\net6.0\QuizProject.Domain.dll
+C:\Users\i7TechStore\source\repos\QuizProject\QuizProject.Services\bin\Debug\net6.0\QuizProject.Data.pdb
+C:\Users\i7TechStore\source\repos\QuizProject\QuizProject.Services\bin\Debug\net6.0\QuizProject.Domain.pdb
+C:\Users\i7TechStore\source\repos\QuizProject\QuizProject.Services\obj\Debug\net6.0\QuizProject.Service.csproj.CopyComplete
